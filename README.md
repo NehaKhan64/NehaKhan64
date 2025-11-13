@@ -32,8 +32,7 @@
 ---
 
 ### 📫 Connect With Me
-- 🌍 Portfolio: [https://YOURUSERNAME.github.io/](https://YOURUSERNAME.github.io/)  
-- 💌 Email: yourname@email.com  
+- 💌 Email: nehaf7108@gmail.com  
 
 ---
 
