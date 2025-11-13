@@ -15,9 +15,19 @@
 ---
 
 ### 🛠️ Tech Skills
-- **Languages:** HTML, CSS, Python (Basic → Advanced)  
-- **Currently Learning:** JavaScript  
-- **Tools:** VS Code, Git, GitHub  
+
+**Frontend Development:**  
+🌐 HTML • 🎨 CSS • ⚡ JavaScript *(learning)*  
+
+**Backend Development:**  
+🐍 Python • 🧩 Flask *(soon)*  
+
+**Tools & Platforms:**  
+🧠 VS Code • 🔧 Git • 💾 GitHub  
+
+**Other Skills:**  
+📊 MS Word • 📈 MS Excel • 🧮 Basic Statistics
+  
 
 ---
 
