@@ -30,7 +30,12 @@
   
 
 ---
+### 🌱 **Currently Learning**
+- Advanced Python (data structures, OOP)
+- JavaScript (for front-end development)
+- Building more projects for my portfolio
 
+---
 ### 📫 Connect With Me
 - 💌 Email: nehaf7108@gmail.com  
 
